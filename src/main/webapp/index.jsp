@@ -11,7 +11,7 @@
             <table border="0" width="30%" cellpadding="3">
                 <thead>
                     <tr>
-                        <th colspan="2">login-</th>
+                        <th colspan="2">login with your username</th>
                     </tr>
                 </thead>
                 <tbody>
